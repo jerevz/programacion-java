@@ -1,0 +1,12 @@
+
+
+
+
+        nombre = "lucas";
+        apellido = "dalto";
+<<<<<<< HEAD
+        system sout printnl ("hola" + nombre +" "+ apellido + " como estas");
+=======
+        saludo = "hola" + nombre +" "+ apellido;
+        System sout printnl (saludo);
+>>>>>>> conflict-branch
